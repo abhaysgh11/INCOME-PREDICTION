@@ -1,0 +1,2 @@
+# INCOME-PREDICTION
+Using AI models
